@@ -98,3 +98,5 @@ Important information
 GlucoGlance provides supplementary displays of diabetes information. Continue to use your official CGM and pump apps for treatment decisions. Display freshness depends on the source data and the connections used to deliver it.
 
 Product names and trademarks belong to their respective owners. GlucoGlance is not affiliated with or endorsed by the manufacturers of the supported devices and services. twiist™ is a trademark of Sequel Med Tech, LLC.
+
+GlucoGlance — Your diabetes data, where you want it.
